@@ -1,0 +1,4 @@
+pip install requests
+json już jest
+pip install openai
+npm install openai@^4.0.0

@@ -1,0 +1,4 @@
+{
+  "problem_description": "solve 7x=2",
+  "language": "en"
+}
